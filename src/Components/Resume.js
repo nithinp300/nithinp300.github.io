@@ -73,11 +73,24 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
+            <ul>
+              <li>
+                <b>Programming Languages:</b> Java, Python, JavaScript, C
+              </li>
+              <li>
+                <b>Web Technologies:</b> HTML5, CSS3, LESS, AJAX, JSON
+              </li>
+              <li>
+                <b>Libraries and Frameworks:</b> React, Redux, jQuery, React
+                Testing Library, Jest, Bootstrap, Node.js
+              </li>
+              <li>
+                <b>Tools and Utilities:</b> Git, Docker, PostgreSQL, MongoDB,
+                Selenium
+              </li>
+            </ul>
 
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
-            </div>
+            {/* <div><ul className="skills">{skills}</ul></div> */}
           </div>
         </div>
       </section>

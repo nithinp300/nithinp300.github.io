@@ -92,34 +92,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Trading Cards",
+        "category": "A web application for Yu-Gi-Oh! Trading Cards",
+        "image": "trading-cards.jpg",
+        "url": "https://nithinpingili.me/trading-cards/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Food Me Once",
+        "category": "Website designed to look into the issue of food security in the United States",
+        "image": "food-me-once.jpg",
+        "url": "https://foodmeonce.me"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Flight Queue",
+        "category": "Website for inflight restroom queue",
+        "image": "",
+        "url": "https://flightqueue.me"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
+        "category": "A React based resume website",
         "image": "resume-website.jpg",
         "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },

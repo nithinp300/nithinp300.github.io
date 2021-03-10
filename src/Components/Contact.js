@@ -99,7 +99,7 @@ class Contact extends Component {
             </div>
           </div>
 
-          <aside className="four columns footer-widgets">
+          {/* <aside className="four columns footer-widgets">
             <div className="widget widget_tweets">
               <h4 className="widget-title">Latest Tweets</h4>
               <ul id="twitter">
@@ -128,7 +128,7 @@ class Contact extends Component {
                 </li>
               </ul>
             </div>
-          </aside>
+          </aside> */}
         </div>
       </section>
     );

@@ -1,6 +1,21 @@
 import React, { Component } from "react";
+import emailjs from "emailjs-com";
+import { init } from "emailjs-com";
+init("user_06cBSh20vi7B5WvHuo7Sq");
 
 class Contact extends Component {
+  sendEmail(e) {
+    e.preventDefault();
+
+    emailjs.sendForm("service_ga9pqre", "template_chsccxa", e.target).then(
+      (result) => {
+        console.log(result.text);
+      },
+      (error) => {
+        console.log(error.text);
+      }
+    );
+  }
   render() {
     if (this.props.data) {
       var name = this.props.data.name;
@@ -29,7 +44,13 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form action="" method="post" id="contactForm" name="contactForm">
+            <form
+              action=""
+              method="post"
+              id="contactForm"
+              name="contactForm"
+              onSubmit={this.sendEmail}
+            >
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
@@ -84,7 +105,10 @@ class Contact extends Component {
                 </div>
 
                 <div>
-                  <button className="submit">Submit</button>
+                  <button className="submit" type="submit" value="Send">
+                    Submit
+                  </button>
+                  {/* <input className="submit" type="submit" value="Send" /> */}
                   <span id="image-loader">
                     <img alt="" src="images/loader.gif" />
                   </span>

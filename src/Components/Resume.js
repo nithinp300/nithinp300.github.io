@@ -93,7 +93,7 @@ class Resume extends Component {
                 Programming (XP)
               </li>
               <li>
-                <b>Storage:</b> SQLite, MongoDB
+                <b>Storage:</b> PostgreSQL, MongoDB
               </li>
             </ul>
 

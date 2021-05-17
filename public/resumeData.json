@@ -4,7 +4,7 @@
     "occupation": "Frontend Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I'm a passionate Front-End Developer with 1 year of professional experience using JavaScript ES6, HTML5, and CSS3 to build all aspects of the user experience and user interface for client-facing websites.",
+    "bio": "I am a Frontend Developer at Anica and currently working on a property management website. I have experience with full-stack web development using technologies such as React, Redux, Node.js, Express, and SQL. Also, I have deployed the full-stack web applications on Amazon Web Services using Docker and GitLab CI/CD pipelines. I have a strong inclination towards building delightful user interfaces using modern frontend technologies. At Anica, I improved the usability of the property management web application by implementing responsive layouts that work across all modern browsers and devices.",
     "contactmessage": "If you want to get in touch, please fill out the form below.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -49,7 +49,7 @@
         "company": "Frontend Developer",
         "title": "Anica Inc.",
         "years": "June 2020 - Present",
-        "description": "Collaborated with UI/UX designers and backend developers to build a property management website that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations."
+        "description": "Collaborated with UI/UX designers and backend developers to build a single-page web application for property management that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations. The web application consumes RESTful web services and provides a seamless user experience."
       }
     ],
     "skills": [

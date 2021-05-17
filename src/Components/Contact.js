@@ -6,13 +6,12 @@ init("user_06cBSh20vi7B5WvHuo7Sq");
 class Contact extends Component {
   sendEmail(e) {
     e.preventDefault();
-
     emailjs.sendForm("service_ga9pqre", "template_chsccxa", e.target).then(
       (result) => {
-        console.log(result.text);
+        document.getElementById("message-success").style.display = "block";
       },
       (error) => {
-        console.log(error.text);
+        document.getElementById("message-warning").style.display = "block";
       }
     );
   }
@@ -116,7 +115,7 @@ class Contact extends Component {
               </fieldset>
             </form>
 
-            <div id="message-warning"> Error boy</div>
+            <div id="message-warning">Error sending message</div>
             <div id="message-success">
               <i className="fa fa-check"></i>Your message was sent, thank you!
               <br />

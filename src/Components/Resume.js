@@ -75,8 +75,8 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <ul>
               <li>
-                <b>Programming:</b> JavaScript ES6, HTML5, CSS3, Less,
-                TypeScript, Java, Python, SQL
+                <b>Programming:</b> JavaScript (ES6), HTML5, CSS3, LESS,
+                SASS/SCSS, TypeScript, Python, SQL
               </li>
               <li>
                 <b>Frameworks:</b> Bootstrap, Jest, Selenium, Express.js, Flask

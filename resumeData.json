@@ -41,7 +41,7 @@
         "school": "The University of Texas at Austin",
         "degree": "Bachelor of Science in Computer Science",
         "graduated": "May 2020",
-        "description": "Coursework: Algorithms, Cloud Computing, Computer Architecture, Computer Networks, Data Structures, Modern Web Applications, Operating Systems, Software Engineering, Computer Security, Data Mining"
+        "description": "Coursework: Algorithms, Cloud Computing, Computer Architecture, Computer Networks, Data Structures, Modern Web Applications, Operating Systems, Software Engineering, Computer Security"
       }
     ],
     "work": [
@@ -49,7 +49,7 @@
         "company": "Frontend Developer",
         "title": "Anica Inc.",
         "years": "Jun 2020 - Present",
-        "description": "Collaborated with UI/UX designers and backend developers to build a single-page web application for property management that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations. The web application consumes RESTful web services and provides a seamless user experience."
+        "description": "Collaborated with UI/UX designers and backend developers to build a property management web application that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations. The web application consumes RESTful web services and provides a seamless user experience."
       }
     ],
     "skills": [

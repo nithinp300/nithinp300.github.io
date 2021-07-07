@@ -75,25 +75,26 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <ul>
               <li>
-                <b>Programming:</b> JavaScript (ES6), HTML5, CSS3, LESS,
-                SASS/SCSS, TypeScript, Python, SQL
+                <b>Programming:</b> JavaScript, HTML5, CSS3, SASS/SCSS,
+                TypeScript, Python
               </li>
               <li>
-                <b>Frameworks:</b> Bootstrap, Jest, Selenium, Express.js, Flask
+                <b>Frameworks:</b> Jest, Selenium, Bootstrap, Express.js
               </li>
               <li>
-                <b>Libraries/APIs:</b> React, Redux, jQuery, Chart.js, React
-                Testing Library, Node.js
+                <b>Libraries/APIs:</b> React, Redux, React Testing Library,
+                jQuery, Node.js
               </li>
               <li>
-                <b>Tools:</b> Git, Webpack, NPM, Docker, Babel, Chrome Dev Tools
+                <b>Tools:</b> Git, Webpack, NPM, Chrome DevTools
               </li>
               <li>
                 <b>Paradigms:</b> Agile Software Development, Extreme
-                Programming (XP)
+                Programming
               </li>
               <li>
-                <b>Storage:</b> PostgreSQL, MongoDB
+                <b>Platforms:</b> Amazon Web Services (AWS), Docker, macOS
+                (UNIX)
               </li>
             </ul>
 

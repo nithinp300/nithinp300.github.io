@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Nithin Pingili",
-    "occupation": "Frontend Developer",
+    "occupation": "Junior Software Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I am a Frontend Developer at Anica and currently working on a property management web application. I have experience creating web applications for desktop and mobile using React and Redux. Also, I have deployed the web applications on Amazon Web Services using Docker and GitLab CI/CD pipelines. I have a strong inclination towards implementing delightful user interfaces using modern front-end technologies.",
+    "bio": "I am a Junior Software Developer at Anica and currently working on a property management web application. I have experience creating web applications for desktop and mobile using React and Redux. Also, I have deployed the web applications on Amazon Web Services using Docker and GitLab CI/CD pipelines. I have a strong inclination towards implementing delightful user interfaces using modern front-end technologies.",
     "contactmessage": "If you have any questions regarding my work or if you think there is an opportunity available for me, please contact me using the form below.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -46,10 +46,10 @@
     ],
     "work": [
       {
-        "company": "Frontend Developer",
+        "company": "Junior Software Developer",
         "title": "Anica Inc.",
         "years": "Jun 2020 - Present",
-        "description": "Collaborated with UI/UX designers and backend developers to build a property management web application that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations. The web application consumes RESTful web services and provides a seamless user experience."
+        "description": "Developed a property management web application that allows landlords and real estate professionals to track leases, residents, and maintenance tasks as well as collect rent and manage finances to reduce costs and streamline operations."
       }
     ],
     "skills": [

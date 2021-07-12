@@ -83,18 +83,10 @@ class Resume extends Component {
               </li>
               <li>
                 <b>Libraries/APIs:</b> React, Redux, React Testing Library,
-                jQuery, Node.js
+                Node.js
               </li>
               <li>
                 <b>Tools:</b> Git, Webpack, NPM, Chrome DevTools
-              </li>
-              <li>
-                <b>Paradigms:</b> Agile Software Development, Extreme
-                Programming
-              </li>
-              <li>
-                <b>Platforms:</b> Amazon Web Services (AWS), Docker, macOS
-                (UNIX)
               </li>
             </ul>
 

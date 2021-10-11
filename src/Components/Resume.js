@@ -75,12 +75,11 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <ul>
               <li>
-                <b>Languages:</b> JavaScript, TypeScript, HTML5, CSS3, Java,
+                <b>Languages:</b> JavaScript, HTML5, CSS3, Java,
                 Python, SQL
               </li>
               <li>
-                <b>Technologies:</b> React, Redux, Node.js, Express, MySQL,
-                MongoDB, AWS, Git
+                <b>Technologies:</b> React, Node.js, Express, Spring Boot, JUnit, Mockito, MySQL, MongoDB, AWS, Git
               </li>
               {/* <li>
                 <b>Tools:</b> Git, AWS, Webpack, NPM, Chrome DevTools
